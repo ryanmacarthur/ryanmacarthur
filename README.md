@@ -1,11 +1,15 @@
-<h1 style="text-align: center; color: #333;">Ryan MacArthur</h1>
+# Ryan MacArthur
 
-<div style="background: #f4f4f4; border-radius: 8px; padding: 20px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); margin-top: 20px;">
-    <div style="background-color: #f9f9f9; padding: 10px; border-radius: 5px;">
-    <p><strong>Majors:</strong> Computer Science, Neuroscience</p>
-    </div>
-    <p><strong>Program Year:</strong> 4th Year</p>
-    <p><strong>Motivation for Enrolling:</strong> I chose this course because it uniquely integrates my interests in both Neuroscience and Computer Science, offering a rare interdisciplinary perspective.</p>
-    <p><strong>Interest in Neuroscience:</strong> My fascination with psychology evolved into a deeper interest in Neuroscience, which I found compelling when I returned to school.</p>
-    <p><strong>Career Aspirations:</strong> I aim to pursue a career as a professor, focusing on research that bridges my dual interests in Computer Science and Neuroscience.</p>
-</div>
+## IMAGE
+
+**Majors:** Computer Science, Neuroscience  
+**Program Year:** 4th Year
+
+**Motivation for Enrolling:**  
+I chose this course because it uniquely integrates my interests in both Neuroscience and Computer Science, offering a rare interdisciplinary perspective.
+
+**Interest in Neuroscience:**  
+My fascination with psychology evolved into a deeper interest in Neuroscience, which I found compelling when I returned to school.
+
+**Career Aspirations:**  
+I aim to pursue a career as a professor, focusing on research that bridges my dual interests in Computer Science and Neuroscience.
