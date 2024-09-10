@@ -1,6 +1,6 @@
 # Ryan MacArthur
 
-## IMAGE
+![My Profile Picture](https://github.com/username/repo/raw/main/image.png)
 
 **Majors:** Computer Science, Neuroscience  
 **Program Year:** 4th Year
