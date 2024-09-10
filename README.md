@@ -1,6 +1,7 @@
 # Ryan MacArthur
 
-![My Profile Picture](https://github.com/username/repo/raw/main/image.png)
+<img src="https://github.com/ryanmacarthur/ryanmacarthur/blob/5b34d4aa258d15efaa9d33192ea1e03e2de1bf81/photo_927%4006-09-2024_17-28-05.jpg" alt="My Profile Picture" width="200" />
+
 
 **Majors:** Computer Science, Neuroscience  
 **Program Year:** 4th Year
